@@ -42,3 +42,7 @@ plagiarism_backend/
 ├── .gitignore
 ├── README.md
 ├── uploads/
+
+<br>
+## Author
+M. Ahsan Idrees
