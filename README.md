@@ -1,10 +1,10 @@
 # Plagiarism & AI Detection System Backend
 <br>
-## Author 
+Author 
 <br>
 M. Ahsan Idrees
 <br>
-## 📌 Project Overview
+📌 Project Overview
 
 This project is a backend system for detecting plagiarism and AI-generated text in documents.
 
@@ -23,7 +23,7 @@ Supported file formats:
 
 ---
 
-# 🚀 Technologies Used
+🚀 Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -36,7 +36,7 @@ Supported file formats:
 
 ---
 
-# 📂 Project Structure
+📂 Project Structure
 
 ```text
 plagiarism_backend/
